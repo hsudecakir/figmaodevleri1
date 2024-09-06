@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(reset.css);
+
+.muze {
+  margin-top: 36px;
+  margin-right: 61.5px;
+  margin-left: 96px;
+  img {
+    float: right;
+    width: 368.5px;
+    height: 313px;
+    padding-left: 158px;
+  }
+
+  h3{
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -0.4px;
+  text-align: left;
+  color: #FFFFFF;
+  padding-top: 47px;
+  padding-bottom: 24px;
+  }
+  button {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    color:#FFFFFF;
+    background-color: #DC3545;
+    border-radius: 3px;
+    padding-top: 16px;
+    padding-left: 72px;
+    padding-bottom: 16px;
+    padding-right: 72px;
+    margin-right: 146x;
+    margin-bottom: 82px;
+    outline: 0;
+    border: 0;
+  }
+}
